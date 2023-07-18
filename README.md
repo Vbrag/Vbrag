@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there! 👋 I'm Abdelmawla Rizk
 
-<!--
-**Vbrag/Vbrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🔧 Skills
+Programming: C, C++, Java, Python, GIT, ISTQB
+Modeling and Simulation: MATLAB/Simulink, LabVIEW, CANoe, Modeldesk, Carmaker
+Electronics: Arduino, Raspberry Pi
+Artificial Intelligence: TensorFlow, PyTorch
 
-Here are some ideas to get you started:
+🤝 Let's Connect
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on a project!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: abdelmawla.saeed@gmail.com
+LinkedIn: Abdelmawla Rizk's LinkedIn Profile
