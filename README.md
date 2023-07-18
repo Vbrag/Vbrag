@@ -10,4 +10,4 @@
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on a project!
 
 ### Email: abdelmawla.saeed@gmail.com
-### LinkedIn: [Abdelmawla Rizk's LinkedIn Profile](https://www.linkedin.com/in/abdelmawla-rizk/)https://www.linkedin.com/in/abdelmawla-rizk/
+### LinkedIn: https://www.linkedin.com/in/abdelmawla-rizk/
